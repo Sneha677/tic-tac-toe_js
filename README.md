@@ -1,2 +1,2 @@
 # tic-tac-toe_js
-javascript
+tic-tac-toe game developed using javascript.
